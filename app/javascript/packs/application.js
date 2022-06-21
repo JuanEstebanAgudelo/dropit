@@ -24,7 +24,6 @@ import "bootstrap"
 
 import { Tooltip, Popover } from "bootstrap"
 
-
 require("../stylesheets/application.scss")
 
 document.addEventListener("turbolinks:load", () => {
